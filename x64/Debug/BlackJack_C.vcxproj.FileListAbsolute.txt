@@ -1,0 +1,2 @@
+C:\Users\jefte\Programacion\Paradigmas\Examen\BlackJack_C\x64\Debug\BlackJack_C.exe
+E:\Programacion\Paradigmas\Examen\BlackJack_C\x64\Debug\BlackJack_C.exe
